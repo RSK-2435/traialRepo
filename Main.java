@@ -4,4 +4,5 @@ class Main
     {
       System.out.println("Hello....");
       System.out.println("Morning...");
+      System.out.println("Have a nice day...");
   }
